@@ -7,3 +7,6 @@ git is a distributed version control system.
 github
 bigbucket
 gitlab
+
+
+Atlassian provided tools like jira, bigBucket etc
